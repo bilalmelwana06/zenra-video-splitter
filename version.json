@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/bilalmelwana06/zenra-video-splitter/releases/download/v1.0.0/ZenraVideoSplitter.exe",
+  "sha256": "430fcefb4b7c52bff87421495fda65758a1e69dac374e2c217088e081d6cc265",
+  "size": 82834823,
+  "notes": [
+    "First release of Zenra Video Splitter",
+    "Split any video into equal clips in seconds - original quality",
+    "Smart cuts at natural pauses, exactly the number of clips you ask for"
+  ]
+}
